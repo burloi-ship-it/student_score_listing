@@ -63,5 +63,4 @@ The application uses **object serialization** (via the `pickle` module) to ensur
 │
 ├── 📄 main.py          # Main script containing the interactive CLI loop
 ├── 📄 log.py           # Definition of the Log class (student data model)
-├── 📄 students3.pkl    # Automatically generated binary file for data storage
 └── 📄 README.md        # Project documentation
